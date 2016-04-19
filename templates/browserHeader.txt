@@ -45,8 +45,8 @@ $(document).ready(function() {
 </div>
 </nav>
 
-<div class="container">
 <div class="jumbotron">
+<div class="container">
 <h2>Browse lncRNAs</h2>  
 <hr>
 <br>
